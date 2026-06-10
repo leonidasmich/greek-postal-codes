@@ -41,6 +41,12 @@ Use `greek_streets_by_postcode.json` when you need address-level data. Join on `
 
 The dataset covers major Greek cities and urban areas (population 10,000+). It is intended as a practical developer reference, not an exhaustive catalogue of every settlement in Greece.
 
+## Sources
+
+This dataset was compiled from publicly available sources and manually verified where possible.
+
+If you believe any source attribution is missing or incorrect, please open an issue.
+
 ## License
 
 Data is provided as-is for open use. Verify critical addresses against official sources before production use.
